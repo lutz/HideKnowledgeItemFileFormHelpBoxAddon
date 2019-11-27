@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HideKnowledgeItemFileFormHelpBox", "HideKnowledgeItemFileFormHelpBox\HideKnowledgeItemFileFormHelpBox.csproj", "{8C13445C-AA66-4285-8556-48FE11B14278}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HideKnowledgeItemFileFormHelpBoxAddon", "HideKnowledgeItemFileFormHelpBoxAddon\HideKnowledgeItemFileFormHelpBox.csproj", "{8C13445C-AA66-4285-8556-48FE11B14278}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
