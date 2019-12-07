@@ -3,7 +3,7 @@ using System;
 
 namespace HideKnowledgeItemFileFormHelpBox
 {
-    public class HideKnowledgeItemFileFormHelpBoxAddon : CitaviAddOn<KnowledgeItemFileForm>
+    public class Addon : CitaviAddOn<KnowledgeItemFileForm>
     {
         #region Methods
 
