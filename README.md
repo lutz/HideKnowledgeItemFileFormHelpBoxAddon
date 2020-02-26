@@ -4,7 +4,7 @@ This add-on hides the help box in the image quote edit or file quote edit dialog
 
 ## Releases
 
-The compiled library can be found under releases as an [archive](./../../releases).
+The compiled library can be found under [releases](./../../releases) as an archive.
 
 ## Disclaimer
 
