@@ -13,9 +13,7 @@ namespace HideKnowledgeItemFileFormHelpBox
             {
                 knowledgeItemFileForm.HelpBox.Hide();
             }
-            catch (Exception){}
-
-            base.OnHostingFormLoaded(knowledgeItemFileForm);
+            catch (Exception) { }
         }
 
         #endregion
